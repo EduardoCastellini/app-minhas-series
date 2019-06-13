@@ -1,5 +1,4 @@
 import axios from 'axios'
-import NewSeries from '../Components/NewSeries';
 
 const api = axios.create({
     baseURL: 'http://localhost:3001/'

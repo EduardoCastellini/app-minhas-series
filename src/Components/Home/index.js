@@ -1,7 +1,6 @@
 import React, { Component } from 'react';
 import api from '../../services/Api';
 
-
 class Home extends Component {
     constructor(props){
         super(props)
